@@ -52,3 +52,17 @@
 /Applications/my_project/black-end/dotnet-project/dotnet-project/obj/Debug/net6.0/dotnet-project.pdb
 /Applications/my_project/black-end/dotnet-project/dotnet-project/obj/Debug/net6.0/dotnet-project.genruntimeconfig.cache
 /Applications/my_project/black-end/dotnet-project/dotnet-project/obj/Debug/net6.0/ref/dotnet-project.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Npgsql.dll
+/Applications/my_project/black-end/dotnet-project/dotnet-project/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
